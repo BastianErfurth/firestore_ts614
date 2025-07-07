@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975672040647",
+    "project_id": "ts-614",
+    "storage_bucket": "ts-614.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975672040647:android:c1da8e0ba8377d167b72e2",
+        "android_client_info": {
+          "package_name": "com.example.firestore_ts614"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA151OiBvd7HxYZUuuoUfXWJFy1oEnmY-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
