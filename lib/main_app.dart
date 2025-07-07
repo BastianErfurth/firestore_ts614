@@ -52,8 +52,7 @@ class _MainAppState extends State<MainApp> {
                 child: Text("Rufe die Daten eines spezifischen Dokumentes ab"),
               ),
               SizedBox(height: 8),
-              Text(
-                  "Die Emailadresse von Anna ist: ${annaEmail ?? 'Noch nicht geladen'}"),
+              Text("Die Emailadresse von Anna ist: ${annaEmail ?? ''}"),
               SizedBox(height: 20),
               Divider(),
               TextButton(
